@@ -4,6 +4,8 @@ interface Props {
   pageHeaderBgImg: string;
   pageHeaderMinVh: string;
   pageHeaderRadius: string;
+  width: string;
+  height: string;
 }
 
 export default function TestimonialsFade({
@@ -12,13 +14,17 @@ export default function TestimonialsFade({
   pageHeaderBgImg,
   pageHeaderMinVh,
   pageHeaderRadius,
+  width,
+  height
 }: Props) {
 
   const styles = {
     pageHeader: {
       backgroundImage: 'url(' + pageHeaderBgImg + ')',
       minHeight: pageHeaderMinVh,
-      borderRadius: pageHeaderRadius
+      borderRadius: pageHeaderRadius,
+      width:width,
+      height:height
     },
   } as const;
 

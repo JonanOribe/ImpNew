@@ -20,14 +20,13 @@ export default function CardProduct({
   return (
     <>
       <a href="#">
-        <div className={`card card-background align-items-start mb-4 mb-lg-0 ${classList}`}>
+        <div className={`card card-background align-items-start mb-4 mb-lg-0 ${classList}`} style={{margin:"0.8em 0"}}>
           <div className="full-background" style={{backgroundImage: `url(${`${import.meta.env.BASE_URL}${thumb_src}`})`, backgroundSize: 'cover'}}></div>
           <div className={`card-body ${classBody}`}>
             <div className="d-block mt-10">
-              <p className="text-white font-weight-bold mb-1">{collection}</p>
               <h4 className="text-white font-weight-bolder">{title}</h4>
               {/* {(cta != null) &&  */}
-                <a href="#" className="text-white text-sm font-weight-semibold mb-0">See products &#62;</a>  
+                <a href="#" className="text-white text-sm font-weight-semibold mb-0">Más información &#62;</a>  
               {/* } */}
             </div>
           </div>

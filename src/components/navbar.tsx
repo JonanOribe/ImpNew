@@ -14,34 +14,39 @@ const Navbar = () => {
           <ul className="navbar-nav ms-auto">
             <li className="nav-item">
               <a className="nav-link text-dark font-weight-bold d-flex align-items-center me-2 " aria-current="page" href="/astro-ecommerce/">
-                All Components
+                Quienes somos
               </a>
             </li>
             <li className="nav-item dropdown">
               <a className="nav-link text-dark dropdown-toggle font-weight-bold d-flex align-items-center me-2 " aria-current="page" id="pagesExample" data-bs-toggle="dropdown" aria-expanded="false">
-                Pages
+                Sobre nosotros
               </a>
               <ul className="dropdown-menu" aria-labelledby="pagesExample">
-                <li><a className="dropdown-item" href="/astro-ecommerce/landing/">Landing Page</a></li>
-                <li><a className="dropdown-item" href="/astro-ecommerce/product/">Product Page</a></li>
-                <li><a className="dropdown-item" href="/astro-ecommerce/shopping-cart/">Shopping Cart</a></li>
+                <li><a className="dropdown-item" href="/astro-ecommerce/landing/">Certificados</a></li>
+                <li><a className="dropdown-item" href="/astro-ecommerce/product/">Servicios</a></li>
+                <li><a className="dropdown-item" href="/astro-ecommerce/shopping-cart/">Industria Alimentaria</a></li>
+                <li><a className="dropdown-item" href="/astro-ecommerce/shopping-cart/">Formación</a></li>
+                <li><a className="dropdown-item" href="/astro-ecommerce/shopping-cart/">Noticias</a></li>
+                <li><a className="dropdown-item" href="/astro-ecommerce/shopping-cart/">Calidad</a></li>
               </ul>
             </li>
             <li className="nav-item">
               <a className="nav-link text-dark font-weight-bold d-flex align-items-center me-2 " aria-current="page" href="https://www.creative-tim.com/learning-lab/astro/overview/astro-ecommerce">
-                Documentation
+              Contacto
               </a>
             </li>
             <li className="nav-item">
               <a className="nav-link text-dark font-weight-bold d-flex align-items-center me-2 " aria-current="page" href="https://github.com/creativetimofficial/astro-ecommerce">
-                <i className="fab text-lg fa-github"></i>
+                <i className="fab text-lg fa-linkedin"></i>
               </a>
             </li>
+            {/*
             <li className="nav-item">
               <a className="nav-link text-dark font-weight-bold d-flex align-items-center me-2 " aria-current="page" href="https://discord.com/invite/TGZqBvZB" rel="nofollow" target="_blank">
                 <i className="fab text-lg fa-discord"></i>
               </a>
             </li>
+            */}
           </ul>
         </div>
       </div>

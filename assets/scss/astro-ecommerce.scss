@@ -2,10 +2,10 @@
 // * Astro Ecommerce - v1.1.0
 // =========================================================
 //
-// * Product Page: https://www.creative-tim.com/astro
-// * Copyright 2023 Creative Tim (https://www.creative-tim.com)
+// * Product Page: https://www.imperialbilbaina.com/astro
+// * Copyright 2023 Creative Tim (https://www.imperialbilbaina.com)
 //
-// Coded by www.creative-tim.com
+// Coded by www.imperialbilbaina.com
 //
 // =========================================================
 //

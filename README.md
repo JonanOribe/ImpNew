@@ -1,4 +1,4 @@
-# Welcome to [Astro Ecommerce](https://www.creative-tim.com/astro)
+# Welcome to [Astro Ecommerce](https://www.imperialbilbaina.com/astro)
 
 ![version](https://img.shields.io/badge/version-1.1.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/astro-ecommerce.svg?maxAge=2592000)](https://github.com/creativetimofficial/astro-ecommerce/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/astro-ecommerce.svg?maxAge=2592000)](https://github.com/creativetimofficial/astro-ecommerce/issues?q=is%3Aissue+is%3Aclosed)
 
@@ -17,9 +17,9 @@ Build your e-commerce website quickly and efficiently with:
 
 **Example Pages**
 We created a set of pre-built pages to help you get inspired or show something to your clients. See them below:
-- [Landing Page](https://demos.creative-tim.com/astro-ecommerce/landing/): Designed to introduce the website's purpose and encourage the user to take an action.
-- [Product Page](https://demos.creative-tim.com/astro-ecommerce/product/): It's designed to give the user all the information they need to make a purchase decision
-- [Shopping Page](https://demos.creative-tim.com/astro-ecommerce/shopping-cart/): Includes a summary of the items in the cart and a form for billing and shipping information.
+- [Landing Page](https://demos.imperialbilbaina.com/astro-ecommerce/landing/): Designed to introduce the website's purpose and encourage the user to take an action.
+- [Product Page](https://demos.imperialbilbaina.com/astro-ecommerce/product/): It's designed to give the user all the information they need to make a purchase decision
+- [Shopping Page](https://demos.imperialbilbaina.com/astro-ecommerce/shopping-cart/): Includes a summary of the items in the cart and a form for billing and shipping information.
 - more+
 
 Astro Ecommerce has everything you need to create the e-commerce website of your dreams.
@@ -91,4 +91,4 @@ Instagram: <https://instagram.com/creativetimofficial>
 
 ## 👀 Want to learn more?
 
-Feel free to check [our documentation](https://www.creative-tim.com/learning-lab/astro/overview/astro-ecommerce) or jump into our [Discord server](https://discord.com/invite/TGZqBvZB).
+Feel free to check [our documentation](https://www.imperialbilbaina.com/learning-lab/astro/overview/astro-ecommerce) or jump into our [Discord server](https://discord.com/invite/TGZqBvZB).

@@ -81,7 +81,7 @@ export default function OrderHistoryCard({
                     <div className="card-header text-center">
                       <div className="row justify-content-between">
                         <div className="col-md-4 text-start">
-                          <img className="mb-2 w-50 rounded-2" src="https://s3.amazonaws.com/creativetim_bucket/new_logo.png" alt="Logo" />
+                          <img className="mb-2 w-50 rounded-2" src="https://s3.amazonaws.com/imperialbilbaina_bucket/new_logo.png" alt="Logo" />
                           <h6>
                             St. Independence Embankment, 050105 Bucharest, Romania
                           </h6>

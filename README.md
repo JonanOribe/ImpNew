@@ -1,8 +1,8 @@
 # Welcome to [Astro Ecommerce](https://www.imperialbilbaina.com/astro)
 
-![version](https://img.shields.io/badge/version-1.1.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/astro-ecommerce.svg?maxAge=2592000)](https://github.com/creativetimofficial/astro-ecommerce/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/astro-ecommerce.svg?maxAge=2592000)](https://github.com/creativetimofficial/astro-ecommerce/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-1.1.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/imperialbilbainaofficial/astro-ecommerce.svg?maxAge=2592000)](https://github.com/imperialbilbainaofficial/astro-ecommerce/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/imperialbilbainaofficial/astro-ecommerce.svg?maxAge=2592000)](https://github.com/imperialbilbainaofficial/astro-ecommerce/issues?q=is%3Aissue+is%3Aclosed)
 
-![basics](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/astro-ecommerce/astro-ecommerce-1.jpg)
+![basics](https://raw.githubusercontent.com/imperialbilbainaofficial/public-assets/master/astro-ecommerce/astro-ecommerce-1.jpg)
 
 ## Description
 
@@ -79,15 +79,15 @@ All commands are run from the root of the project, from a terminal:
 
 #### Social Media
 
-Twitter: <https://twitter.com/CreativeTim>
+Twitter: <https://twitter.com/imperialbilbaina>
 
-Facebook: <https://www.facebook.com/CreativeTim>
+Facebook: <https://www.facebook.com/imperialbilbaina>
 
-Dribbble: <https://dribbble.com/creativetim>
+Dribbble: <https://dribbble.com/imperialbilbaina>
 
 TikTok: <https://tiktok.com/@creative.tim>
 
-Instagram: <https://instagram.com/creativetimofficial>
+Instagram: <https://instagram.com/imperialbilbainaofficial>
 
 ## 👀 Want to learn more?
 

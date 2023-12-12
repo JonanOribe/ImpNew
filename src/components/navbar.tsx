@@ -36,7 +36,7 @@ const Navbar = () => {
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link text-dark font-weight-bold d-flex align-items-center me-2 " aria-current="page" href="https://github.com/creativetimofficial/astro-ecommerce">
+              <a className="nav-link text-dark font-weight-bold d-flex align-items-center me-2 " aria-current="page" href="https://github.com/imperialbilbainaofficial/astro-ecommerce">
                 <i className="fab text-lg fa-linkedin"></i>
               </a>
             </li>

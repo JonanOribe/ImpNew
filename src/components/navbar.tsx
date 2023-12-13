@@ -22,12 +22,11 @@ const Navbar = () => {
                 Sobre nosotros
               </a>
               <ul className="dropdown-menu" aria-labelledby="pagesExample">
-                <li><a className="dropdown-item" href="/astro-ecommerce/landing/">Certificados</a></li>
-                <li><a className="dropdown-item" href="/astro-ecommerce/product/">Servicios</a></li>
-                <li><a className="dropdown-item" href="/astro-ecommerce/shopping-cart/">Industria Alimentaria</a></li>
-                <li><a className="dropdown-item" href="/astro-ecommerce/shopping-cart/">Formación</a></li>
-                <li><a className="dropdown-item" href="/astro-ecommerce/shopping-cart/">Noticias</a></li>
-                <li><a className="dropdown-item" href="/astro-ecommerce/shopping-cart/">Calidad</a></li>
+                <li><a className="dropdown-item" href="#certifies">Certificados</a></li>
+                <li><a className="dropdown-item" href="#services">Servicios</a></li>
+                <li><a className="dropdown-item" href="#services">Industria Alimentaria</a></li>
+                <li><a className="dropdown-item" href="#certifies">Formación</a></li>
+                <li><a className="dropdown-item" href="#certifies">Calidad</a></li>
               </ul>
             </li>
             <li className="nav-item">

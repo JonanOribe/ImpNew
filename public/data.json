@@ -194,32 +194,32 @@
   ],
   "categories": [
     {
-      "thumb_src": "/images/CIMG0140.jpg",
+      "thumb_src": "../images/CIMG0140.jpg",
       "title": "Servicios generales",
       "collection": "Pre-fall"
     },
     {
-      "thumb_src": "/images/CIMG0246.jpg",
+      "thumb_src": "../images/CIMG0246.jpg",
       "title": "Particulares",
       "collection": "Pre-fall"
     },
     {
-      "thumb_src": "/images/CIMG0187.jpg",
+      "thumb_src": "../images/CIMG0187.jpg",
       "title": "Comunidades y Garajes",
       "collection": "Pre-fall"
     },
     {
-      "thumb_src": "/images/CIMG0158.jpg",
+      "thumb_src": "../images/CIMG0158.jpg",
       "title": "Hoteles",
       "collection": "Pre-fall"
     },
     {
-      "thumb_src": "/images/CIMG0224.jpg",
+      "thumb_src": "../images/CIMG0224.jpg",
       "title": "Oficinas",
       "collection": "Pre-fall"
     },
     {
-      "thumb_src": "/images/P5140748.jpg",
+      "thumb_src": "../images/P5140748.jpg",
       "title": "Industria y Empresas",
       "collection": "Pre-fall"
     }

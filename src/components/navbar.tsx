@@ -2,7 +2,7 @@ const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg blur border-radius-sm top-0 z-index-3 shadow position-sticky py-3 start-0 end-0" style={{borderBottom: "3px solid #143575"}}>
       <div className="container px-1">
-        <img className="navbar-brand font-weight-bolder ms-lg-0" src="../images/Logo-web.jpg" alt="Imperial Bilbaina" width="200em"/>
+        <img className="navbar-brand font-weight-bolder ms-lg-0" src="..//images/Logo-web.jpg" alt="Imperial Bilbaina" width="200em"/>
         <button className="navbar-toggler shadow-none ms-2" type="button" data-bs-toggle="collapse" data-bs-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
           <span className="navbar-toggler-icon mt-2">
             <span className="navbar-toggler-bar bar1"></span>

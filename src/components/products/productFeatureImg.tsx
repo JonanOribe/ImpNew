@@ -13,10 +13,10 @@ export default function ProductGallery({
     <>
       <div className="row mt-4">
         <div className="col-6">
-          <img className="w-100 h-80 rounded-3" src={`../images/ISO-2022-Imperial-Bilbaina.jpg`} alt={images[2].alt} />
+          <img className="w-100 h-80 rounded-3" src={`..//images/ISO-2022-Imperial-Bilbaina.jpg`} alt={images[2].alt} />
         </div>
         <div className="col-6">
-          <img className="w-100 h-80 rounded-3" src={`../images/ITEL.jpg`} alt={images[3].alt} />
+          <img className="w-100 h-80 rounded-3" src={`..//images/ITEL.jpg`} alt={images[3].alt} />
         </div>
       </div>
     </>

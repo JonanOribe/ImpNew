@@ -13,8 +13,8 @@ const Navbar = () => {
         <div className="collapse navbar-collapse" id="navigation">
           <ul className="navbar-nav ms-auto">
             <li className="nav-item">
-              <a className="nav-link text-dark font-weight-bold d-flex align-items-center me-2 " aria-current="page" href="/astro-ecommerce/">
-                Quienes somos
+              <a className="nav-link text-dark font-weight-bold d-flex align-items-center me-2 " aria-current="page" href="#whoweare">
+                Quiénes somos
               </a>
             </li>
             <li className="nav-item dropdown">
@@ -31,7 +31,7 @@ const Navbar = () => {
               </ul>
             </li>
             <li className="nav-item">
-              <a className="nav-link text-dark font-weight-bold d-flex align-items-center me-2 " aria-current="page" href="https://www.imperialbilbaina.com/learning-lab/astro/overview/astro-ecommerce">
+              <a className="nav-link text-dark font-weight-bold d-flex align-items-center me-2 " aria-current="page" href="#contact">
               Contacto
               </a>
             </li>
@@ -40,13 +40,6 @@ const Navbar = () => {
                 <i className="fab text-lg fa-linkedin"></i>
               </a>
             </li>
-            {/*
-            <li className="nav-item">
-              <a className="nav-link text-dark font-weight-bold d-flex align-items-center me-2 " aria-current="page" href="https://discord.com/invite/TGZqBvZB" rel="nofollow" target="_blank">
-                <i className="fab text-lg fa-discord"></i>
-              </a>
-            </li>
-            */}
           </ul>
         </div>
       </div>

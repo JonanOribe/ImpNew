@@ -1,7 +1,7 @@
 export default function Footer() {
   return (
     <>
-      <footer className="footer pt-3" style={{borderTop: "2px solid #143575"}}>
+      <footer id="contact" className="footer pt-3" style={{borderTop: "2px solid #143575"}}>
         <div className="row align-items-center justify-content-lg-between">
           <div className="col-lg-6 mb-lg-0 mb-4">
             <div className="copyright text-center text-sm text-muted text-lg-start">
@@ -11,7 +11,7 @@ export default function Footer() {
                 className="text-dark ms-1"
                 target="_blank"
               >
-                Imperial Bilbaína
+                Imperial Bilbaína &nbsp;
               </a>
               <script>document.write(new Date().getFullYear())</script>
             </div>

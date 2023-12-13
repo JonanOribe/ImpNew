@@ -30,7 +30,7 @@ export default function TestimonialsFade({
 
   return (
     <>
-      <section className="mb-8">
+      <section className="mb-3">
         <div className="page-header py-5 py-md-0" style={styles.pageHeader}>
           <span className="mask bg-black opacity-6"></span>
           <div className="container">

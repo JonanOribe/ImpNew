@@ -24,9 +24,9 @@ const Navbar = () => {
               <ul className="dropdown-menu" aria-labelledby="pagesExample">
                 <li><a className="dropdown-item" href="#certifies">Certificados</a></li>
                 <li><a className="dropdown-item" href="#services">Servicios</a></li>
-                <li><a className="dropdown-item" href="#services">Industria Alimentaria</a></li>
-                <li><a className="dropdown-item" href="#certifies">Formación</a></li>
-                <li><a className="dropdown-item" href="#certifies">Calidad</a></li>
+                {/*<li><a className="dropdown-item" href="#services">Industria Alimentaria</a></li>*/}
+                {/*<li><a className="dropdown-item" href="#certifies">Formación</a></li>*/}
+                {/*<li><a className="dropdown-item" href="#certifies">Calidad</a></li>*/}
               </ul>
             </li>
             <li className="nav-item">
@@ -35,8 +35,8 @@ const Navbar = () => {
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link text-dark font-weight-bold d-flex align-items-center me-2 " aria-current="page" href="https://github.com/imperialbilbainaofficial/">
-                <i className="fab text-lg fa-linkedin"></i>
+              <a className="nav-link text-dark font-weight-bold d-flex align-items-center me-2 " aria-current="page" href="https://www.facebook.com/ImperialBilbainaSA">
+                <i className="fab text-lg fa-facebook" style={{color:"#143575"}}></i>
               </a>
             </li>
           </ul>

@@ -27,11 +27,11 @@ export default function ProductOverview({
             <h2 className="mb-3">{title}</h2>
           }
           {(full_description.length != 0) && 
-            <p className="mb-5">{full_description}</p>
+            <p className="mb-3">{full_description}</p>
           }
         </div>
       </div>
-      <div className="row mt-5">
+      <div className="row mt-3">
         <div className="col-12 col-lg-6 pe-5">
           <div className="row">
             <h4 className="mb-3">Certificados</h4>

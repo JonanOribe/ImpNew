@@ -76,19 +76,3 @@ All commands are run from the root of the project, from a terminal:
 | `npm run preview`      | Preview your build locally, before deploying       |
 | `npm run astro ...`    | Run CLI commands like `astro add`, `astro preview` |
 | `npm run astro --help` | Get help using the Astro CLI                       |
-
-#### Social Media
-
-Twitter: <https://twitter.com/imperialbilbaina>
-
-Facebook: <https://www.facebook.com/imperialbilbaina>
-
-Dribbble: <https://dribbble.com/imperialbilbaina>
-
-TikTok: <https://tiktok.com/@creative.tim>
-
-Instagram: <https://instagram.com/imperialbilbainaofficial>
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://www.imperialbilbaina.com/learning-lab/astro/overview/astro-ecommerce) or jump into our [Discord server](https://discord.com/invite/TGZqBvZB).

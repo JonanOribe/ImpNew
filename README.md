@@ -1,4 +1,4 @@
-# Welcome to [Astro Ecommerce](https://www.imperialbilbaina.com/astro)
+# Welcome to [Imperial Bilbaina](https://www.imperialbilbaina.com/astro)
 
 ![version](https://img.shields.io/badge/version-1.1.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/imperialbilbainaofficial/astro-ecommerce.svg?maxAge=2592000)](https://github.com/imperialbilbainaofficial/astro-ecommerce/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/imperialbilbainaofficial/astro-ecommerce.svg?maxAge=2592000)](https://github.com/imperialbilbainaofficial/astro-ecommerce/issues?q=is%3Aissue+is%3Aclosed)
 
@@ -6,7 +6,7 @@
 
 ## Description
 
-Introducing **Astro Ecommerce**, the ultimate starter template for your e-commerce web project. Built on Astro's next-gen island architecture, Astro Ecommerce offers a sleek and modern design with a wide range of components and features to help you create a stunning online store.
+Introducing **Imperial Bilbaina**, the ultimate starter template for your e-commerce web project. Built on Astro's next-gen island architecture, Imperial Bilbaina offers a sleek and modern design with a wide range of components and features to help you create a stunning online store.
 
 **Main Features**
 Build your e-commerce website quickly and efficiently with:
@@ -22,7 +22,7 @@ We created a set of pre-built pages to help you get inspired or show something t
 - [Shopping Page](https://demos.imperialbilbaina.com/astro-ecommerce/shopping-cart/): Includes a summary of the items in the cart and a form for billing and shipping information.
 - more+
 
-Astro Ecommerce has everything you need to create the e-commerce website of your dreams.
+Imperial Bilbaina has everything you need to create the e-commerce website of your dreams.
 
 
 ## 🚀 Project Structure

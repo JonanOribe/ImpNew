@@ -1,9 +1,9 @@
 // =========================================================
-// * Astro Ecommerce - v1.1.0
+// * Imperial Bilbaina - v1.1.0
 // =========================================================
 //
 // * Product Page: https://www.imperialbilbaina.com/astro
-// * Copyright 2023 Creative Tim (https://www.imperialbilbaina.com)
+// * Copyright 2023 Imperial Bilbaina (https://www.imperialbilbaina.com)
 //
 // Coded by www.imperialbilbaina.com
 //

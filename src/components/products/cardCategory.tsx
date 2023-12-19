@@ -26,7 +26,7 @@ export default function CardProduct({
             <div className="d-block mt-10">
               <h4 className="text-white font-weight-bolder">{title}</h4>
               {/* {(cta != null) &&  */}
-                <a href="#" className="text-white text-sm font-weight-semibold mb-0">Más información</a>  
+                <a href="./services" className="text-white text-sm font-weight-semibold mb-0">Más información</a>  
               {/* } */}
             </div>
           </div>

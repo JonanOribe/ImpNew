@@ -6,7 +6,7 @@
       "thumb_alt": "watch-image",
       "images": [
         {
-          "src": "https://images.unsplash.com/photo-1611930021592-a8cfd5319ceb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+          "src": "..//images/CIMG0140.jpg",
           "alt": "first_image"
         },
         {
@@ -28,7 +28,7 @@
         "blue", 
         "green"
       ],
-      "title": "Basic Starter Pack",
+      "title": "Nuestros servicios",
       "price": 399,
       "description": "That’s the main thing people are controlled by! Thoughts- their perception of themselves!",
       "full_description": "Llámenos al teléfono/fax 94 421 53 27 y consulte nuestras tarifas.",
@@ -76,7 +76,7 @@
       "thumb_alt": "watch-image",
       "images": [
         {
-          "src": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=80",
+          "src": "..//images/CIMG0140.jpg",
           "alt": "first_image"
         },
         {
@@ -136,7 +136,7 @@
       "thumb_alt": "iMac-image",
       "images": [
         {
-          "src": "https://images.unsplash.com/photo-1567790350645-dbc1486a89c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&q=80",
+          "src": "..//images/CIMG0140.jpg",
           "alt": "first_image"
         },
         {

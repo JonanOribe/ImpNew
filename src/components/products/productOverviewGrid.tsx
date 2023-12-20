@@ -49,7 +49,7 @@ export default function ProductOverview({
               <li>Fregado mecánico de suelos tratados</li>
               <li>
                 Limpieza de fachadas, cristales, eliminación de pintadas,
-                tratamientos…
+                tratamientos antigraffity…
               </li>
               <li>Limpiezas generales y fin de obras</li>
               <li>Higienización y limpieza alimentaria</li>

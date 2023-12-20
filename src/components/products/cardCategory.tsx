@@ -19,7 +19,7 @@ export default function CardProduct({
 
   return (
     <>
-      <a href="#">
+      <a href="">
         <div className={`card card-background align-items-start mb-4 mb-lg-0 ${classList}`} style={{margin:"0.8em 0"}}>
           <div className="full-background" style={{backgroundImage: `url(${`../${thumb_src}`})`, backgroundSize: 'cover'}}></div>
           <div className={`card-body ${classBody}`}>

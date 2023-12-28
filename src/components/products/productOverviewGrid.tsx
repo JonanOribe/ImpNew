@@ -57,8 +57,6 @@ export default function ProductOverview({
               <li>Auxiliares y externalización de los servicios y Eventos</li>
               <li>Jardinería y medio ambiente</li>
               <li>Coordinación de gremios</li>
-              <li>Limpieza en seco</li>
-              <li>Limpiezas generales y fin de obras</li>
               <li>Limpieza criogénica</li>
               <li>Ozonización</li>
             </ul>

@@ -34,6 +34,7 @@ export default function ReviewSummaryChart({
     <div className="mx-auto text-center w-md-60 mb-5">
       <h3>Nuestra calidad de servicio, como nuestra forma de ser</h3>
     </div>
+    {/*
     <div className="row">
       <div className="col-12 col-lg-5">
         <div className="p-4 mb-4">
@@ -56,6 +57,7 @@ export default function ReviewSummaryChart({
         </div>
       </div>
     </div>
+    */}
     <div className="mb-5 mt-5">
         <h3>Aviso legal</h3>
         <div><h5><b>Objetivo</b></h5><p>Mediante este “Aviso Legal”, <b>IMPERIAL BILBAINA, S.A.</b> quiere comunicar a los usuarios de su sitio Web la política de protección de datos de carácter personal llevada a cabo, cumpliendo así con el derecho de información que la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal (en adelante LOPD), y la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y de Comercio Electrónico (en adelante LSSI) reconoce a todos los usuarios.
